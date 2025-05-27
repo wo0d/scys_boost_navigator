@@ -7,7 +7,6 @@
 // @match        https://scys.com/*
 // @exclude      https://scys.com/view/docx/*
 // @grant        none
-// @require      https://cdn.jsdelivr.net/npm/css-inject@1.0.0/index.min.js
 // ==/UserScript==
 
 (function() {
