@@ -82,22 +82,38 @@
         {
             text: '亦仁',
             className: 'nav-item',
-            url: 'https://scys.com/personal/552158581144?number=1'
+            url: 'https://scys.com/personal/552158581144'
+        },
+        {
+            text: '亦仁的收藏夹',
+            className: 'nav-item',
+            url: 'https://scys.com/personal/421122582111848'
         },
         {
             text: '刘小排',
             className: 'nav-item',
-            url: 'https://scys.com/personal/48582854588528?number=19454'
+            url: 'https://scys.com/personal/48582854588528'
         },
         {
             text: '哥飞',
             className: 'nav-item',
-            url: 'https://scys.com/personal/1125284552?number=2396'
+            url: 'https://scys.com/personal/1125284552'
         },
         {
             text: '子木',
             className: 'nav-item',
-            url: 'https://scys.com/personal/881885484552?number=2766'
+            url: 'https://scys.com/personal/881885484552'
+        },
+        {
+            text: 'Cheer林悦己',
+            className: 'nav-item',
+            url: 'https://scys.com/personal/418444481488158'
+        },
+        ,
+        {
+            text: '收藏的帖子',
+            className: 'nav-item',
+            url: 'https://scys.com/personal/28512258888111?collections=1&number=37862'
         }
     ];
 
