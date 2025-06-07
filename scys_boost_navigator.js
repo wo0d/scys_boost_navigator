@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         【生财有术】官网导航栏增强
 // @namespace    Violentmonkey Scripts
-// @version      1.1
+// @version      1.2
 // @description  在生财有术官网导航栏添加收藏作者下拉菜单
 // @author       Rand0mWalk
 // @match        https://scys.com/*
 // @exclude      https://scys.com/view/docx/*
+// @updateURL    https://raw.githubusercontent.com/wo0d/scys_boost_navigator/main/scys_boost_navigator.js
+// @downloadURL  https://raw.githubusercontent.com/wo0d/scys_boost_navigator/main/scys_boost_navigator.js
 // @grant        none
 // ==/UserScript==
 
