@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         【生财有术】官网导航栏增强
 // @namespace    Violentmonkey Scripts
-// @version      1.2.1
+// @version      1.2.2
 // @description  在生财有术官网导航栏添加收藏作者下拉菜单
 // @author       Rand0mWalk
 // @match        https://scys.com/*
@@ -107,15 +107,9 @@
             url: 'https://scys.com/personal/881885484552'
         },
         {
-            text: 'Cheer林悦己',
-            className: 'nav-item',
-            url: 'https://scys.com/personal/418444481488158'
-        },
-        ,
-        {
             text: '收藏的帖子',
             className: 'nav-item',
-            url: 'https://scys.com/personal/28512258888111?collections=1&number=37862'
+            url: 'https://scys.com/personal/28512258888111?collections=1'
         }
     ];
 
