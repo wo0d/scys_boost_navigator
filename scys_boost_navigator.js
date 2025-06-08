@@ -107,7 +107,7 @@
             url: 'https://scys.com/personal/881885484552'
         },
         {
-            text: '收藏的帖子',
+            text: '我的收藏',
             className: 'nav-item',
             url: 'https://scys.com/personal/28512258888111?collections=1'
         }
