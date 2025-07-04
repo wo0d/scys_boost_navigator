@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         【生财有术】官网导航栏增强
 // @namespace    Violentmonkey Scripts
-// @version      1.2.8
+// @version      1.2.9
 // @description  在生财有术官网导航栏添加收藏作者下拉菜单
 // @author       Rand0mWalk
 // @match        https://scys.com/*
@@ -106,6 +106,12 @@
             text: '子木',
             className: 'nav-item',
             url: 'https://scys.com/personal/881885484552'
+        },
+        ,
+        {
+            text: '超级标',
+            className: 'nav-item',
+            url: 'https://scys.com/tag/2634453/%E8%B6%85%E7%BA%A7%E6%A0%87'
         }
     ];
 
