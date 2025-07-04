@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         【生财有术】官网导航栏增强
 // @namespace    Violentmonkey Scripts
-// @version      1.2.5
+// @version      1.2.8
 // @description  在生财有术官网导航栏添加收藏作者下拉菜单
 // @author       Rand0mWalk
 // @match        https://scys.com/*
@@ -27,7 +27,8 @@
         .favorites-dropdown-container {
             position: relative;
             display: inline-block;
-            margin-left: -5px; /* Adjust margin to fine-tune spacing */
+            margin-left: -20px; /* Adjust margin to fine-tune spacing */
+            margin-right: -20px; /* Reduce spacing on the right side */
         }
         .favorites-dropdown-button {
             cursor: pointer;
