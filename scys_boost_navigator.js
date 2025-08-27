@@ -116,6 +116,11 @@
             text: '超级术',
             className: 'nav-item',
             url: 'https://scys.com/tag/3783551'
+        },
+        {
+            text: '小灯塔',
+            className: 'nav-item',
+            url: 'https://scys.com/tag/2482503'
         }
     ];
 
