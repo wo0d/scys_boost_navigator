@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         【生财有术】官网导航栏增强
 // @namespace    Violentmonkey Scripts
-// @version      1.3.2
+// @version      1.3.4
 // @description  在生财有术官网导航栏添加收藏作者下拉菜单
 // @author       Rand0mWalk
 // @match        https://scys.com/*
@@ -84,16 +84,6 @@
     // 按钮配置
     const buttonConfigs = [
         {
-            text: '亦仁',
-            className: 'nav-item',
-            url: 'https://scys.com/personal/552158581144'
-        },
-        {
-            text: '亦仁的收藏夹',
-            className: 'nav-item',
-            url: 'https://scys.com/personal/421122582111848'
-        },
-        {
             text: '刘小排',
             className: 'nav-item',
             url: 'https://scys.com/personal/48582854588528'
@@ -107,21 +97,6 @@
             text: '子木',
             className: 'nav-item',
             url: 'https://scys.com/personal/881885484552'
-        },
-        {
-            text: '超级标',
-            className: 'nav-item',
-            url: 'https://scys.com/tag/2634453'
-        },
-        {
-            text: '超级术',
-            className: 'nav-item',
-            url: 'https://scys.com/tag/3783551'
-        },
-        {
-            text: '小灯塔',
-            className: 'nav-item',
-            url: 'https://scys.com/tag/2482503'
         }
     ];
 
